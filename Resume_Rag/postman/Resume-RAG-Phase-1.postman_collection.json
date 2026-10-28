@@ -1,0 +1,204 @@
+{
+  "info": {
+    "name": "Resume RAG - Phase 1",
+    "description": "Verification requests for the shared backend scaffold.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:3000"
+    }
+  ],
+  "item": [
+    {
+      "name": "Health",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/v1/health",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "v1",
+            "health"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Unknown route returns 404",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/v1/does-not-exist",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "v1",
+            "does-not-exist"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Database health",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/v1/health/db",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "v1",
+            "health",
+            "db"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Upload PDF",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            {
+              "key": "file",
+              "type": "file",
+              "src": ""
+            }
+          ]
+        },
+        "url": {
+          "raw": "{{baseUrl}}/v1/resume/upload",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "v1",
+            "resume",
+            "upload"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Extract PDF text",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            {
+              "key": "file",
+              "type": "file",
+              "src": ""
+            }
+          ]
+        },
+        "url": {
+          "raw": "{{baseUrl}}/v1/resume/extract",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "v1",
+            "resume",
+            "extract"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Clean resume text",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"rawText\": \"Rajesh Mohan Kumar\\nTest Architect & Senior Agentic Test Engineer\\nTestleaf Software Solutions Private Limited\\nEmail: rajesh.mohan@gmail.com\\nPhone: +91 98765 43210\\nB.Tech - Information Technology\\n13+ years of experience in Selenium WebDriver, Python, RAG, DeepEval and MCP (Model Context Protocol).\"\n}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/v1/resume/clean",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "v1",
+            "resume",
+            "clean"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Detect skills",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"rawText\": \"13+ years of experience in Selenium WebDriver, Python, RAG, DeepEval and MCP (Model Context Protocol).\"\n}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/v1/resume/skills",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "v1",
+            "resume",
+            "skills"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Parse resume metadata",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"rawText\": \"Rajesh Mohan Kumar\\nTest Architect & Senior Agentic Test Engineer\\nTestleaf Software Solutions Private Limited\\nEmail: rajesh.mohan@gmail.com\\nPhone: +91 98765 43210\\nB.Tech - Information Technology\\n13+ years of experience in Selenium WebDriver, Python, RAG, DeepEval and MCP (Model Context Protocol).\"\n}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/v1/resume/parse",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "v1",
+            "resume",
+            "parse"
+          ]
+        }
+      }
+    }
+  ]
+}
