@@ -1,0 +1,1809 @@
+{
+    "strategy": "llm",
+    "params": {
+        "model": "openai/gpt-oss-120b",
+        "simulated": true
+    },
+    "result": {
+        "chunks": [
+            {
+                "index": 1,
+                "title": "Logical Section: You are logged in",
+                "topic": "Document / Logged",
+                "text": "You are logged in",
+                "length": 17,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #1."
+            },
+            {
+                "index": 2,
+                "title": "Logical Section: Loading...",
+                "topic": "Document / Loading",
+                "text": "Loading...",
+                "length": 10,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #2."
+            },
+            {
+                "index": 3,
+                "title": "Logical Section: LOGOUT",
+                "topic": "Document / Logout",
+                "text": "LOGOUT",
+                "length": 6,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #3."
+            },
+            {
+                "index": 4,
+                "title": "Logical Section: You don’t have any Active Subscription.",
+                "topic": "Document / Subscription / Active",
+                "text": "You don’t have any Active Subscription.",
+                "length": 39,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #4."
+            },
+            {
+                "index": 5,
+                "title": "Logical Section: Subscribe now",
+                "topic": "Document / Subscribe",
+                "text": "Subscribe now",
+                "length": 13,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #5."
+            },
+            {
+                "index": 6,
+                "title": "Logical Section: Subscribed with another email? Logout an...",
+                "topic": "Document / Logout / Login",
+                "text": "Subscribed with another email? Logout and Login with that one.",
+                "length": 62,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #6."
+            },
+            {
+                "index": 7,
+                "title": "Logical Section: Your active subscription(s)",
+                "topic": "Document / Subscription / Active",
+                "text": "Your active subscription(s)",
+                "length": 27,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #7."
+            },
+            {
+                "index": 8,
+                "title": "Logical Section: Account subscription benefits alongside ...",
+                "topic": "Document / Subscription / Benefits",
+                "text": "Account subscription benefits alongside Premium Stories, Editorials,\n Opinions and more. Unlock these with Subscription",
+                "length": 119,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #8."
+            },
+            {
+                "index": 9,
+                "title": "Logical Section: Products you've access to",
+                "topic": "Document / Access / Products",
+                "text": "Products you've access to",
+                "length": 25,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #9."
+            },
+            {
+                "index": 10,
+                "title": "Logical Section: Additional Subscription Benefits",
+                "topic": "Document / Subscription / Benefits",
+                "text": "Additional Subscription Benefits",
+                "length": 32,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #10."
+            },
+            {
+                "index": 11,
+                "title": "Logical Section: - eBooks ",
+                "topic": "Document / Newsletters / Webinars",
+                "text": "- eBooks \n- Webinars \n- Newsletters \n- Games",
+                "length": 44,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #11."
+            },
+            {
+                "index": 12,
+                "title": "Logical Section: Account Settings",
+                "topic": "Document / Settings / Account",
+                "text": "Account Settings",
+                "length": 16,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #12."
+            },
+            {
+                "index": 13,
+                "title": "Logical Section: - Go to My Account ",
+                "topic": "Document / Bookmarks / Manage",
+                "text": "- Go to My Account \n- Bookmarks \n- Manage Subscriptions",
+                "length": 55,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #13."
+            },
+            {
+                "index": 14,
+                "title": "Logical Section: Need help with your subscription?",
+                "topic": "Document / Subscription / Help",
+                "text": "Need help with your subscription?",
+                "length": 33,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #14."
+            },
+            {
+                "index": 15,
+                "title": "Logical Section: - customersupport@thehindu.co.in",
+                "topic": "Document / Customersupport / 1800",
+                "text": "- customersupport@thehindu.co.in\n- 1800 102 1878",
+                "length": 48,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #15."
+            },
+            {
+                "index": 16,
+                "title": "Logical Section: ## FIFA WC 2026",
+                "topic": "Document / 2026 / Fifa",
+                "text": "## FIFA WC 2026",
+                "length": 15,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #16."
+            },
+            {
+                "index": 17,
+                "title": "Logical Section: Full TimeKOR2CZE1FRI, 12 JUN, 2026, 07:3...",
+                "topic": "Document / 2026 / Full",
+                "text": "Full TimeKOR2CZE1FRI, 12 JUN, 2026, 07:30 ISTFull TimeMEX2RSA0FRI, 12 JUN, 2026, 00:30 ISTupcomingCAN0BIH0SAT, 13 JUN, 2026, 00:30 ISTupcomingUSA0PAR0SAT, 13 JUN, 2026, 06:30 ISTupcomingQAT0SUI0SUN, 14 JUN, 2026, 00:30 ISTupcomingBRA0MAR0SUN, 14 JUN, 2026, 03:30 ISTupcomingHAI0SCO0SUN, 14 JUN, 2026, 06:30 ISTupcomingAUS0TUR0SUN, 14 JUN, 2026, 09:30 ISTupcomingDEU0CUW0SUN, 14 JUN, 2026, 22:30 ISTupcomingNED0JPN0MON, 15 JUN, 2026, 01:30 ISTupcomingCIV0ECU0MON, 15 JUN, 2026, 04:30 ISTupcomingSWE0TUN0MON, 15 JUN, 2026, 07:30 ISTupcomingESP0CPV0MON, 15 JUN, 2026, 21:30 ISTupcomingBEL0EGY0TUE, 16 JUN, 2026, 00:30 ISTupcomingKSA0URU0TUE, 16 JUN, 2026, 03:30 ISTupcomingIRN0NZL0TUE, 16 JUN, 2026, 06:30 ISTupcomingFRA0SEN0WED, 17 JUN, 2026, 00:30 ISTupcomingIRQ0NOR0WED, 17 JUN, 2026, 03:30 ISTupcomingARG0ALG0WED, 17 JUN, 2026, 06:30 ISTupcomingAUT0JOR0WED, 17 JUN, 2026, 09:30 ISTupcomingPRT0COD0WED, 17 JUN, 2026, 22:30 ISTupcomingENG0HRV0THU, 18 JUN, 2026, 01:30 ISTupcomingGHA0PAN0THU, 18 JUN, 2026, 04:30 ISTupcomingUZB0COL0THU, 18 JUN, 2026, 07:30 ISTupcomingCZE0RSA0THU, 18 JUN, 2026, 21:30 ISTupcomingSUI0BIH0FRI, 19 JUN, 2026, 00:30 ISTupcomingCAN0QAT0FRI, 19 JUN, 2026, 03:30 ISTupcomingMEX0KOR0FRI, 19 JUN, 2026, 06:30 ISTupcomingUSA0AUS0SAT, 20 JUN, 2026, 00:30 ISTupcomingSCO0MAR0SAT, 20 JUN, 2026, 03:30 ISTupcomingBRA0HAI0SAT, 20 JUN, 2026, 06:00 ISTupcomingTUR0PAR0SAT, 20 JUN, 2026, 08:30 ISTupcomingNED0SWE0SAT, 20 JUN, 2026, 22:30 ISTupcomingDEU0CIV0SUN, 21 JUN, 2026, 01:30 ISTupcomingECU0CUW0SUN, 21 JUN, 2026, 05:30 ISTupcomingTUN0JPN0SUN, 21 JUN, 2026, 09:30 ISTupcomingESP0KSA0SUN, 21 JUN, 2026, 21:30 ISTupcomingBEL0IRN0MON, 22 JUN, 2026, 00:30 ISTupcomingURU0CPV0MON, 22 JUN, 2026, 03:30 ISTupcomingNZL0EGY0MON, 22 JUN, 2026, 06:30 ISTupcomingARG0AUT0MON, 22 JUN, 2026, 22:30 ISTupcomingFRA0IRQ0TUE, 23 JUN, 2026, 02:30 ISTupcomingNOR0SEN0TUE, 23 JUN, 2026, 05:30 ISTupcomingJOR0ALG0TUE, 23 JUN, 2026, 08:30 ISTupcomingPRT0UZB0TUE, 23 JUN, 2026, 22:30 ISTupcomingENG0GHA0WED, 24 JUN, 2026, 01:30 ISTupcomingPAN0HRV0WED, 24 JUN, 2026, 04:30 ISTupcomingCOL0COD0WED, 24 JUN, 2026, 07:30 ISTupcomingBIH0QAT0THU, 25 JUN, 2026, 00:30 ISTupcomingSUI0CAN0THU, 25 JUN, 2026, 00:30 ISTupcomingSCO0BRA0THU, 25 JUN, 2026, 03:30 ISTupcomingMAR0HAI0THU, 25 JUN, 2026, 03:30 ISTupcomingCZE0MEX0THU, 25 JUN, 2026, 06:30 ISTupcomingRSA0KOR0THU, 25 JUN, 2026, 06:30 ISTupcomingECU0DEU0FRI, 26 JUN, 2026, 01:30 ISTupcomingCUW0CIV0FRI, 26 JUN, 2026, 01:30 ISTupcomingTUN0NED0FRI, 26 JUN, 2026, 04:30 ISTupcomingJPN0SWE0FRI, 26 JUN, 2026, 04:30 ISTupcomingTUR0USA0FRI, 26 JUN, 2026, 07:30 ISTupcomingPAR0AUS0FRI, 26 JUN, 2026, 07:30 ISTupcomingSEN0IRQ0SAT, 27 JUN, 2026, 00:30 ISTupcomingNOR0FRA0SAT, 27 JUN, 2026, 00:30 ISTupcomingCPV0KSA0SAT, 27 JUN, 2026, 05:30 ISTupcomingURU0ESP0SAT, 27 JUN, 2026, 05:30 ISTupcomingEGY0IRN0SAT, 27 JUN, 2026, 08:30 ISTupcomingNZL0BEL0SAT, 27 JUN, 2026, 08:30 ISTupcomingPAN0ENG0SUN, 28 JUN, 2026, 02:30 ISTupcomingHRV0GHA0SUN, 28 JUN, 2026, 02:30 ISTupcomingCOL0PRT0SUN, 28 JUN, 2026, 05:00 ISTupcomingCOD0UZB0SUN, 28 JUN, 2026, 05:00 ISTupcomingJOR0ARG0SUN, 28 JUN, 2026, 07:30 ISTupcomingALG0AUT0SUN, 28 JUN, 2026, 07:30 ISTupcomingTBA0TBA0MON, 29 JUN, 2026, 00:30 ISTupcomingTBA0TBA0MON, 29 JUN, 2026, 22:30 ISTupcomingTBA0TBA0TUE, 30 JUN, 2026, 02:00 ISTupcomingTBA0TBA0TUE, 30 JUN, 2026, 06:30 ISTupcomingTBA0TBA0TUE, 30 JUN, 2026, 22:30 ISTupcomingTBA0TBA0WED, 01 JUL, 2026, 02:30 ISTupcomingTBA0TBA0WED, 01 JUL, 2026, 06:30 ISTupcomingTBA0TBA0WED, 01 JUL, 2026, 21:30 ISTupcomingTBA0TBA0THU, 02 JUL, 2026, 01:30 ISTupcomingTBA0TBA0THU, 02 JUL, 2026, 05:30 ISTupcomingTBA0TBA0FRI, 03 JUL, 2026, 00:30 ISTupcomingTBA0TBA0FRI, 03 JUL, 2026, 04:30 ISTupcomingTBA0TBA0FRI, 03 JUL, 2026, 08:30 ISTupcomingTBA0TBA0FRI, 03 JUL, 2026, 23:30 ISTupcomingTBA0TBA0SAT, 04 JUL, 2026, 03:30 ISTupcomingTBA0TBA0SAT, 04 JUL, 2026, 07:00 ISTupcomingTBA0TBA0SAT, 04 JUL, 2026, 22:30 ISTupcomingTBA0TBA0SUN, 05 JUL, 2026, 02:30 ISTupcomingTBA0TBA0MON, 06 JUL, 2026, 01:30 ISTupcomingTBA0TBA0MON, 06 JUL, 2026, 05:30 ISTupcomingTBA0TBA0TUE, 07 JUL, 2026, 00:30 ISTupcomingTBA0TBA0TUE, 07 JUL, 2026, 05:30 ISTupcomingTBA0TBA0TUE, 07 JUL, 2026, 21:30 ISTupcomingTBA0TBA0WED, 08 JUL, 2026, 01:30 ISTupcomingTBA0TBA0FRI, 10 JUL, 2026, 01:30 ISTupcomingTBA0TBA0SAT, 11 JUL, 2026, 00:30 ISTupcomingTBA0TBA0SUN, 12 JUL, 2026, 02:30 ISTupcomingTBA0TBA0SUN, 12 JUL, 2026, 06:30 ISTupcomingTBA0TBA0WED, 15 JUL, 2026, 00:30 ISTupcomingTBA0TBA0THU, 16 JUL, 2026, 00:30 ISTupcomingTBA0TBA0SUN, 19 JUL, 2026, 02:30 ISTupcomingTBA0TBA0MON, 20 JUL, 2026, 00:30 IST",
+                "length": 4578,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #17."
+            },
+            {
+                "index": 18,
+                "title": "Logical Section: ## Top News",
+                "topic": "Document / News",
+                "text": "## Top News",
+                "length": 11,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #18."
+            },
+            {
+                "index": 19,
+                "title": "Logical Section: Live",
+                "topic": "Document / Live",
+                "text": "Live",
+                "length": 4,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #19."
+            },
+            {
+                "index": 20,
+                "title": "Logical Section: ### Netanyahu says in 'full agreement' w...",
+                "topic": "Document / Agreement / Trump",
+                "text": "### Netanyahu says in 'full agreement' with Trump for Iran not to acquire nuclear weapons | LIVE",
+                "length": 96,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #20."
+            },
+            {
+                "index": 21,
+                "title": "Logical Section: U.S. forces shoot down two Iranian attac...",
+                "topic": "Document / Trump / Donald",
+                "text": "U.S. forces shoot down two Iranian attack drones, an official says; Iran said it had not reached a final decision on a deal with Washington after U.S. President Donald Trump announced a \"great settlement\" to end the war The Hindu Bureau",
+                "length": 236,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #21."
+            },
+            {
+                "index": 22,
+                "title": "Logical Section: #### Live Updates",
+                "topic": "Document / Live / Updates",
+                "text": "#### Live Updates",
+                "length": 17,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #22."
+            },
+            {
+                "index": 23,
+                "title": "Logical Section: - Iran criticises U.S. attacks on vessel...",
+                "topic": "Document / Iran / Agreement",
+                "text": "- Iran criticises U.S. attacks on vessels with Indian crew\n- Netanyahu says in 'full agreement' with Trump for Iran not to acquire nuclear weapons\n- Sensex jumps 1,695 points, Nifty rises 2% propelled by global rally as U.S. ends war with Iran\nIndia",
+                "length": 249,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #23."
+            },
+            {
+                "index": 24,
+                "title": "Logical Section: ### India summons U.S. Deputy Chief of M...",
+                "topic": "Document / Deputy / Again",
+                "text": "### India summons U.S. Deputy Chief of Mission again after another attack on merchant ship with Indian crew",
+                "length": 107,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #24."
+            },
+            {
+                "index": 25,
+                "title": "Logical Section: The Hindu BureauDelhi",
+                "topic": "Document / Hindu / Bureaudelhi",
+                "text": "The Hindu BureauDelhi",
+                "length": 21,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #25."
+            },
+            {
+                "index": 26,
+                "title": "Logical Section: ### Delhi HC refuses to direct reopening...",
+                "topic": "Document / Sheets / Delhi",
+                "text": "### Delhi HC refuses to direct reopening of CBSE re-evaluation portal for Class 12 answer sheets",
+                "length": 96,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #26."
+            },
+            {
+                "index": 27,
+                "title": "Logical Section: The Hindu BureauIndia",
+                "topic": "Document / Hindu / Bureauindia",
+                "text": "The Hindu BureauIndia",
+                "length": 21,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #27."
+            },
+            {
+                "index": 28,
+                "title": "Logical Section: ### Dissident Trinamool faction to appro...",
+                "topic": "Document / Approach / Dissident",
+                "text": "### Dissident Trinamool faction to approach Lok Sabha Speaker, seek recognition as 'real TMC'",
+                "length": 93,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #28."
+            },
+            {
+                "index": 29,
+                "title": "Logical Section: PTICricket",
+                "topic": "Document / Pticricket",
+                "text": "PTICricket",
+                "length": 10,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #29."
+            },
+            {
+                "index": 30,
+                "title": "Logical Section: ### Kane Williamson, former New Zealand ...",
+                "topic": "Document / Former / Kane",
+                "text": "### Kane Williamson, former New Zealand captain, announces retirement from international cricket",
+                "length": 96,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #30."
+            },
+            {
+                "index": 31,
+                "title": "Logical Section: The Hindu BureauIndia",
+                "topic": "Document / Hindu / Bureauindia",
+                "text": "The Hindu BureauIndia",
+                "length": 21,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #31."
+            },
+            {
+                "index": 32,
+                "title": "Logical Section: ### Supreme Court dismisses Meenakshi Na...",
+                "topic": "Document / Court / Dismisses",
+                "text": "### Supreme Court dismisses Meenakshi Natarajan’s plea against rejection of Rajya Sabha candidature",
+                "length": 99,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #32."
+            },
+            {
+                "index": 33,
+                "title": "Logical Section: Aaratrika BhaumikIndia",
+                "topic": "Document / Bhaumikindia / Aaratrika",
+                "text": "Aaratrika BhaumikIndia",
+                "length": 22,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #33."
+            },
+            {
+                "index": 34,
+                "title": "Logical Section: ### BSF, BGB discuss illegal and forced ...",
+                "topic": "Document / Discuss / Forced",
+                "text": "### BSF, BGB discuss illegal and forced border crossings at DG-level talks",
+                "length": 74,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #34."
+            },
+            {
+                "index": 35,
+                "title": "Logical Section: Vijaita SinghIndia",
+                "topic": "Document / Singhindia / Vijaita",
+                "text": "Vijaita SinghIndia",
+                "length": 18,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #35."
+            },
+            {
+                "index": 36,
+                "title": "Logical Section: ### Beyond Congress-mukt Bharat: the shr...",
+                "topic": "Document / Space / Congress",
+                "text": "### Beyond Congress-mukt Bharat: the shrinking space for regional parties",
+                "length": 73,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #36."
+            },
+            {
+                "index": 37,
+                "title": "Logical Section: Sandeep PhukanKarnataka",
+                "topic": "Document / Sandeep / Phukankarnataka",
+                "text": "Sandeep PhukanKarnataka",
+                "length": 23,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #37."
+            },
+            {
+                "index": 38,
+                "title": "Logical Section: ### Karnataka extends free bus pass sche...",
+                "topic": "Document / Scheme / Studying",
+                "text": "### Karnataka extends free bus pass scheme to its students studying outside State",
+                "length": 81,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #38."
+            },
+            {
+                "index": 39,
+                "title": "Logical Section: The Hindu BureauHomes and gardens",
+                "topic": "Document / Hindu / Bureauhomes",
+                "text": "The Hindu BureauHomes and gardens",
+                "length": 33,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #39."
+            },
+            {
+                "index": 40,
+                "title": "Logical Section: ### The great tier-2 shift: How Gen Z is...",
+                "topic": "Document / Shift / Real",
+                "text": "### The great tier-2 shift: How Gen Z is redrawing India’s real estate map",
+                "length": 74,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #40."
+            },
+            {
+                "index": 41,
+                "title": "Logical Section: Binitha Dalal",
+                "topic": "Document / Dalal / Binitha",
+                "text": "Binitha Dalal",
+                "length": 13,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #41."
+            },
+            {
+                "index": 42,
+                "title": "Logical Section: ### ​Lows of the land: On Meenakshi Nata...",
+                "topic": "Document / Natarajan / Lows",
+                "text": "### ​Lows of the land: On Meenakshi Natarajan’s Rajya Sabha nomination",
+                "length": 70,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #42."
+            },
+            {
+                "index": 43,
+                "title": "Logical Section: ### Fair and square: On the Tamil Nadu S...",
+                "topic": "Document / Nadu / Fair",
+                "text": "### Fair and square: On the Tamil Nadu Speaker, MLAs, disqualification proceedings",
+                "length": 82,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #43."
+            },
+            {
+                "index": 44,
+                "title": "Logical Section: READ OUR EDITORIALS IN",
+                "topic": "Document / Read / Editorials",
+                "text": "READ OUR EDITORIALS IN",
+                "length": 22,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #44."
+            },
+            {
+                "index": 45,
+                "title": "Logical Section: - HindiLead",
+                "topic": "Document / Hindilead",
+                "text": "- HindiLead",
+                "length": 11,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #45."
+            },
+            {
+                "index": 46,
+                "title": "Logical Section: ### FCRA Bill — expanding state control ...",
+                "topic": "Document / Expanding / Fcra",
+                "text": "### FCRA Bill — expanding state control over civil society",
+                "length": 58,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #46."
+            },
+            {
+                "index": 47,
+                "title": "Logical Section: P. WilsonComment",
+                "topic": "Document / Wilsoncomment",
+                "text": "P. WilsonComment",
+                "length": 16,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #47."
+            },
+            {
+                "index": 48,
+                "title": "Logical Section: ### Should India incentivise bigger fami...",
+                "topic": "Document / Families / Bigger",
+                "text": "### Should India incentivise bigger families?",
+                "length": 45,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #48."
+            },
+            {
+                "index": 49,
+                "title": "Logical Section: Priscilla JebarajComment",
+                "topic": "Document / Priscilla / Jebarajcomment",
+                "text": "Priscilla JebarajComment",
+                "length": 24,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #49."
+            },
+            {
+                "index": 50,
+                "title": "Logical Section: ### To err is human; one can only accept...",
+                "topic": "Document / Accept / Human",
+                "text": "### To err is human; one can only accept, learn and get on with it",
+                "length": 66,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #50."
+            },
+            {
+                "index": 51,
+                "title": "Logical Section: Kannal AchuthanComment",
+                "topic": "Document / Kannal / Achuthancomment",
+                "text": "Kannal AchuthanComment",
+                "length": 22,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #51."
+            },
+            {
+                "index": 52,
+                "title": "Logical Section: ### Implementation complete, but workers...",
+                "topic": "Document / Implementation / Complete",
+                "text": "### Implementation complete, but workers still vulnerable",
+                "length": 57,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #52."
+            },
+            {
+                "index": 53,
+                "title": "Logical Section: Kingshuk SarkarComment",
+                "topic": "Document / Kingshuk / Sarkarcomment",
+                "text": "Kingshuk SarkarComment",
+                "length": 22,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #53."
+            },
+            {
+                "index": 54,
+                "title": "Logical Section: ### Negotiating federalism in higher edu...",
+                "topic": "Document / Federalism / Education",
+                "text": "### Negotiating federalism in higher education",
+                "length": 46,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #54."
+            },
+            {
+                "index": 55,
+                "title": "Logical Section: Eldho MathewsComment",
+                "topic": "Document / Mathewscomment / Eldho",
+                "text": "Eldho MathewsComment",
+                "length": 20,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #55."
+            },
+            {
+                "index": 56,
+                "title": "Logical Section: ### Why TVK is eager to woo AIADMK cadre",
+                "topic": "Document / Eager / Aiadmk",
+                "text": "### Why TVK is eager to woo AIADMK cadre",
+                "length": 40,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #56."
+            },
+            {
+                "index": 57,
+                "title": "Logical Section: T. Ramakrishnan",
+                "topic": "Document / Ramakrishnan",
+                "text": "T. Ramakrishnan",
+                "length": 15,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #57."
+            },
+            {
+                "index": 58,
+                "title": "Logical Section: ## Latest News",
+                "topic": "Document / News / Latest",
+                "text": "## Latest News",
+                "length": 14,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #58."
+            },
+            {
+                "index": 59,
+                "title": "Logical Section: 2026-06-12T18:25:00+05:30",
+                "topic": "Document / 12T18 / 2026",
+                "text": "2026-06-12T18:25:00+05:30",
+                "length": 25,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #59."
+            },
+            {
+                "index": 60,
+                "title": "Logical Section: ### Top news of the day: India summons U...",
+                "topic": "Document / Deputy / Court",
+                "text": "### Top news of the day: India summons U.S. Deputy Chief of Mission again after another attack on a merchant ship with Indian crew; Supreme Court dismisses Meenakshi Natarajan’s plea against rejection of Rajya Sabha candidature, and more",
+                "length": 237,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #60."
+            },
+            {
+                "index": 61,
+                "title": "Logical Section: 2026-06-12T18:12:02+05:30",
+                "topic": "Document / 12T18 / 2026",
+                "text": "2026-06-12T18:12:02+05:30",
+                "length": 25,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #61."
+            },
+            {
+                "index": 62,
+                "title": "Logical Section: ### Debate on real TMC settled; Mamata, ...",
+                "topic": "Document / Settled / Real",
+                "text": "### Debate on real TMC settled; Mamata, Abhishek represent fake TMC: BJP",
+                "length": 72,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #62."
+            },
+            {
+                "index": 63,
+                "title": "Logical Section: 2026-06-12T17:55:21+05:30",
+                "topic": "Document / 12T17 / 2026",
+                "text": "2026-06-12T17:55:21+05:30",
+                "length": 25,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #63."
+            },
+            {
+                "index": 64,
+                "title": "Logical Section: ### Delhi HC refuses to direct reopening...",
+                "topic": "Document / Sheets / Delhi",
+                "text": "### Delhi HC refuses to direct reopening of CBSE re-evaluation portal for Class 12 answer sheets",
+                "length": 96,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #64."
+            },
+            {
+                "index": 65,
+                "title": "Logical Section: read more stories",
+                "topic": "Document / Read / More",
+                "text": "read more stories",
+                "length": 17,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #65."
+            },
+            {
+                "index": 66,
+                "title": "Logical Section: ### Sumukhi Suresh on why stand-up comed...",
+                "topic": "Document / Like / Honest",
+                "text": "### Sumukhi Suresh on why stand-up comedy should feel like an uncomfortable, honest confession",
+                "length": 94,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #66."
+            },
+            {
+                "index": 67,
+                "title": "Logical Section: ### No guarantee of right to work?",
+                "topic": "Document / Work / Guarantee",
+                "text": "### No guarantee of right to work?",
+                "length": 34,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #67."
+            },
+            {
+                "index": 68,
+                "title": "Logical Section: ### In defence of the Indian traveller: ...",
+                "topic": "Document / Defence / Than",
+                "text": "### In defence of the Indian traveller: Are we judged more harshly than we deserve?",
+                "length": 83,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #68."
+            },
+            {
+                "index": 69,
+                "title": "Logical Section: ### CM’s promise on vehicle modification...",
+                "topic": "Document / Vehicle / Kerala",
+                "text": "### CM’s promise on vehicle modification in Kerala raises many doubts",
+                "length": 69,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #69."
+            },
+            {
+                "index": 70,
+                "title": "Logical Section: ### Stokes — the problem child",
+                "topic": "Document / Problem / Child",
+                "text": "### Stokes — the problem child",
+                "length": 30,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #70."
+            },
+            {
+                "index": 71,
+                "title": "Logical Section: ### U.P. Police Constable Exam: When hop...",
+                "topic": "Document / Collide / Constable",
+                "text": "### U.P. Police Constable Exam: When hope and desperation collide",
+                "length": 65,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #71."
+            },
+            {
+                "index": 72,
+                "title": "Logical Section: ## Ahmedabad crash anniversary",
+                "topic": "Document / Ahmedabad / Anniversary",
+                "text": "## Ahmedabad crash anniversary",
+                "length": 30,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #72."
+            },
+            {
+                "index": 73,
+                "title": "Logical Section: Lasting trauma of AI-171How Gujarat resp...",
+                "topic": "Document / 171How / Rejects",
+                "text": "Lasting trauma of AI-171How Gujarat respondedAir India rejects coercion claims",
+                "length": 78,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #73."
+            },
+            {
+                "index": 74,
+                "title": "Logical Section: ### One year since AI-171 crash, pilots ...",
+                "topic": "Document / Delay / Releasing",
+                "text": "### One year since AI-171 crash, pilots body questions delay in releasing final probe report",
+                "length": 92,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #74."
+            },
+            {
+                "index": 75,
+                "title": "Logical Section: The Federation of Indian Pilots urges au...",
+                "topic": "Document / Data / Electric",
+                "text": "The Federation of Indian Pilots urges authorities not to publish an incomplete interim report, warning that it could add to speculation on the cause of the June 2025 crash. Officials say engine manufacturer General Electric is still analysing data from AI-171 engines, contributing to the delay.Jagriti Chandra",
+                "length": 310,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #75."
+            },
+            {
+                "index": 76,
+                "title": "Logical Section: ### The forgotten copilot of Air India f...",
+                "topic": "Document / Flight / India",
+                "text": "### The forgotten copilot of Air India flight 171",
+                "length": 49,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #76."
+            },
+            {
+                "index": 77,
+                "title": "Logical Section: ### Ahmedabad plane crash: A year on, vi...",
+                "topic": "Document / Kept / Father",
+                "text": "### Ahmedabad plane crash: A year on, victim’s father rebuilds life; says son kept his promise even after death",
+                "length": 111,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #77."
+            },
+            {
+                "index": 78,
+                "title": "Logical Section: ### ‘My memories are frozen on June 12’:...",
+                "topic": "Document / Searching / Answers",
+                "text": "### ‘My memories are frozen on June 12’: A year on, families of AI-171 victims still searching for answers",
+                "length": 106,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #78."
+            },
+            {
+                "index": 79,
+                "title": "Logical Section: ## Editor's Pick",
+                "topic": "Document / Editor / Pick",
+                "text": "## Editor's Pick",
+                "length": 16,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #79."
+            },
+            {
+                "index": 80,
+                "title": "Logical Section: Cricket",
+                "topic": "Document / Cricket",
+                "text": "Cricket",
+                "length": 7,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #80."
+            },
+            {
+                "index": 81,
+                "title": "Logical Section: ### Onus on Sooryavanshi as India-A hope...",
+                "topic": "Document / Onus / Hopes",
+                "text": "### Onus on Sooryavanshi as India-A hopes to get going",
+                "length": 54,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #81."
+            },
+            {
+                "index": 82,
+                "title": "Logical Section: Shayan AcharyaElections",
+                "topic": "Document / Shayan",
+                "text": "Shayan AcharyaElections",
+                "length": 23,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #82."
+            },
+            {
+                "index": 83,
+                "title": "Logical Section: ### Why is Nicobar debating elections? |...",
+                "topic": "Document / Debating / Elections",
+                "text": "### Why is Nicobar debating elections? | Explained",
+                "length": 50,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #83."
+            },
+            {
+                "index": 84,
+                "title": "Logical Section: Abhinay LakshmanLife & Style",
+                "topic": "Document / Style / Abhinay",
+                "text": "Abhinay LakshmanLife & Style",
+                "length": 28,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #84."
+            },
+            {
+                "index": 85,
+                "title": "Logical Section: ### Inside South India’s women-led kink ...",
+                "topic": "Document / Inside / Consent",
+                "text": "### Inside South India’s women-led kink spaces: conversations around desire and consent",
+                "length": 87,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #85."
+            },
+            {
+                "index": 86,
+                "title": "Logical Section: Tejaswi SubramanianData",
+                "topic": "Document / Subramaniandata / Tejaswi",
+                "text": "Tejaswi SubramanianData",
+                "length": 23,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #86."
+            },
+            {
+                "index": 87,
+                "title": "Logical Section: ### Vizag steel plant explosion | Data r...",
+                "topic": "Document / Industrial / Data",
+                "text": "### Vizag steel plant explosion | Data reveals major lacunae in reporting industrial accidents",
+                "length": 94,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #87."
+            },
+            {
+                "index": 88,
+                "title": "Logical Section: Sambavi Parthasarathy,Pon Vasanth B.AMov...",
+                "topic": "Document / Amovies / Parthasarathy",
+                "text": "Sambavi Parthasarathy,Pon Vasanth B.AMovies",
+                "length": 43,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #88."
+            },
+            {
+                "index": 89,
+                "title": "Logical Section: ### Bharathiraja and Balachander: The st...",
+                "topic": "Document / Rettaisuzhi / Film",
+                "text": "### Bharathiraja and Balachander: The story of ‘Rettaisuzhi’, their only film together",
+                "length": 86,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #89."
+            },
+            {
+                "index": 90,
+                "title": "Logical Section: Srinivasa Ramanujam",
+                "topic": "Document / Srinivasa / Ramanujam",
+                "text": "Srinivasa Ramanujam",
+                "length": 19,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #90."
+            },
+            {
+                "index": 91,
+                "title": "Logical Section: #### Cities",
+                "topic": "Document / Cities",
+                "text": "#### Cities",
+                "length": 11,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #91."
+            },
+            {
+                "index": 92,
+                "title": "Logical Section: Select City",
+                "topic": "Document / Chennai / Mumbai",
+                "text": "Select City\n \n \n \n \n \n Bengaluru\n Chennai\n Coimbatore\n Delhi\n Hyderabad\n Kochi\n Kolkata\n Kozhikode\n Madurai\n Mangaluru\n Mumbai\n Puducherry\n Thiruvananthapuram\n Tiruchirapalli\n Vijayawada\n Visakhapatnam",
+                "length": 201,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #92."
+            },
+            {
+                "index": 93,
+                "title": "Logical Section: Chennai",
+                "topic": "Document / Chennai",
+                "text": "Chennai",
+                "length": 7,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #93."
+            },
+            {
+                "index": 94,
+                "title": "Logical Section: ### Water bells scheme forgottenby most ...",
+                "topic": "Document / Scheme / Most",
+                "text": "### Water bells scheme forgottenby most govt. schools in city",
+                "length": 61,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #94."
+            },
+            {
+                "index": 95,
+                "title": "Logical Section: ### Impose fine on those littering beach...",
+                "topic": "Document / Impose / Those",
+                "text": "### Impose fine on those littering beaches, NGT directs local bodies",
+                "length": 68,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #95."
+            },
+            {
+                "index": 96,
+                "title": "Logical Section: #### States",
+                "topic": "Document / States",
+                "text": "#### States",
+                "length": 11,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #96."
+            },
+            {
+                "index": 97,
+                "title": "Logical Section: Select State",
+                "topic": "Document / Pradesh / Mizoram",
+                "text": "Select State\n \n \n \n Andhra Pradesh\n Karnataka\n Kerala\n Tamil Nadu\n Telangana\n Andaman and Nicobar Islands\n Arunachal Pradesh\n Assam\n Bihar\n Chandigarh\n Chhattisgarh\n Daman, Diu, Dadra and Nagar Haveli\n Goa\n Gujarat\n Haryana\n Himachal Pradesh\n Jammu and Kashmir\n Jharkhand\n Lakshadweep\n Ladakh\n Madhya Pradesh\n Maharashtra\n Manipur\n Meghalaya\n Mizoram\n Nagaland\n Odisha\n Punjab\n Rajasthan\n Sikkim\n Tripura\n Uttar Pradesh\n Uttarakhand\n West Bengal",
+                "length": 445,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #97."
+            },
+            {
+                "index": 98,
+                "title": "Logical Section: Tamil Nadu",
+                "topic": "Document / Nadu / Tamil",
+                "text": "Tamil Nadu",
+                "length": 10,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #98."
+            },
+            {
+                "index": 99,
+                "title": "Logical Section: ### Notices sent to four ex-MLAs for def...",
+                "topic": "Document / During / Assembly",
+                "text": "### Notices sent to four ex-MLAs for defying AIADMK whip during trust vote in Tamil Nadu Assembly",
+                "length": 97,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #99."
+            },
+            {
+                "index": 100,
+                "title": "Logical Section: ### DVAC reopens corruption case against...",
+                "topic": "Document / Case / Minister",
+                "text": "### DVAC reopens corruption case against former Minister R. Vaithilingam",
+                "length": 72,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #100."
+            },
+            {
+                "index": 101,
+                "title": "Logical Section: ### Tamil Nadu CM Vijay in Karnataka, to...",
+                "topic": "Document / Nadu / Karnataka",
+                "text": "### Tamil Nadu CM Vijay in Karnataka, to visit Kolluru Mookambika temple",
+                "length": 72,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #101."
+            },
+            {
+                "index": 102,
+                "title": "Logical Section: ## FIFA World Cup 2026",
+                "topic": "Document / World / 2026",
+                "text": "## FIFA World Cup 2026",
+                "length": 22,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #102."
+            },
+            {
+                "index": 103,
+                "title": "Logical Section: Read more",
+                "topic": "Document / Read / More",
+                "text": "Read more",
+                "length": 9,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #103."
+            },
+            {
+                "index": 104,
+                "title": "Logical Section: Goals, greats, and the golden bootWho wi...",
+                "topic": "Document / Greats / Trophy",
+                "text": "Goals, greats, and the golden bootWho will take home the trophy?Opening ceremony",
+                "length": 80,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #104."
+            },
+            {
+                "index": 105,
+                "title": "Logical Section: ### Of old warhorses, their longevity an...",
+                "topic": "Document / Longevity / Dance",
+                "text": "### Of old warhorses, their longevity and last dance",
+                "length": 52,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #105."
+            },
+            {
+                "index": 106,
+                "title": "Logical Section: While Messi, Ronaldo and Ochoa are appea...",
+                "topic": "Document / Their / Ochoa",
+                "text": "While Messi, Ronaldo and Ochoa are appearing in their record-equalling sixth tournament, Modric and Neuer are going strong in their 40s; they are, however, set to bow out soonS. Shrivathsan",
+                "length": 189,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #106."
+            },
+            {
+                "index": 107,
+                "title": "Logical Section: ### Yamal, Williams train ahead of Spain...",
+                "topic": "Document / Ahead / Cape",
+                "text": "### Yamal, Williams train ahead of Spain's opener against Cape Verde",
+                "length": 68,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #107."
+            },
+            {
+                "index": 108,
+                "title": "Logical Section: ### South Korea coach hails team unity a...",
+                "topic": "Document / Unity / Czechs",
+                "text": "### South Korea coach hails team unity after comeback win over Czechs",
+                "length": 69,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #108."
+            },
+            {
+                "index": 109,
+                "title": "Logical Section: ### Mexico wins opening game for the fir...",
+                "topic": "Document / Game / First",
+                "text": "### Mexico wins opening game for the first time",
+                "length": 47,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #109."
+            },
+            {
+                "index": 110,
+                "title": "Logical Section: Read more",
+                "topic": "Document / Read / More",
+                "text": "Read more",
+                "length": 9,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #110."
+            },
+            {
+                "index": 111,
+                "title": "Logical Section: ## Listen",
+                "topic": "Document / Listen",
+                "text": "## Listen",
+                "length": 9,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #111."
+            },
+            {
+                "index": 112,
+                "title": "Logical Section: Podcast",
+                "topic": "Document / Podcast",
+                "text": "Podcast",
+                "length": 7,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #112."
+            },
+            {
+                "index": 113,
+                "title": "Logical Section: ### Political stability, India ties, eco...",
+                "topic": "Document / Economic / Political",
+                "text": "### Political stability, India ties, economic crisis: Where is Bangladesh headed under BNP?",
+                "length": 91,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #113."
+            },
+            {
+                "index": 114,
+                "title": "Logical Section: Bangladesh is at a critical political tu...",
+                "topic": "Document / Political / Bangladesh",
+                "text": "Bangladesh is at a critical political turning point under a BNP-led government. In this episode, we explore what the return of the Bangladesh Nationalist Party under Tarique Rahman means for political stability, governance, and institutions. Smriti SudeshPodcast",
+                "length": 262,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #114."
+            },
+            {
+                "index": 115,
+                "title": "Logical Section: ### Should India incentivise bigger fami...",
+                "topic": "Document / Families / Bigger",
+                "text": "### Should India incentivise bigger families?",
+                "length": 45,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #115."
+            },
+            {
+                "index": 116,
+                "title": "Logical Section: As India’s birth rate dips to 1.9, Andhr...",
+                "topic": "Document / Proposes / Larger",
+                "text": "As India’s birth rate dips to 1.9, Andhra Pradesh’s Chief Minister proposes cash rewards for larger families. Join experts Aparajita Chattopadhyay and Neelanjan Sircar on the In Focus podcast to discuss!Priscilla Jebaraj",
+                "length": 220,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #116."
+            },
+            {
+                "index": 117,
+                "title": "Logical Section: ## War in West Asia",
+                "topic": "Document / Asia / West",
+                "text": "## War in West Asia",
+                "length": 19,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #117."
+            },
+            {
+                "index": 118,
+                "title": "Logical Section: More stories",
+                "topic": "Document / More / Stories",
+                "text": "More stories",
+                "length": 12,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #118."
+            },
+            {
+                "index": 119,
+                "title": "Logical Section: Trump backs off from more strikes22 coun...",
+                "topic": "Document / Stop / Trump",
+                "text": "Trump backs off from more strikes22 countries tell Iran to stop attacksIndian seafarers killed",
+                "length": 94,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #119."
+            },
+            {
+                "index": 120,
+                "title": "Logical Section: ### Donald Trump says Iran war deal clos...",
+                "topic": "Document / Trump / Close",
+                "text": "### Donald Trump says Iran war deal close as Strait of Hormuz tensions linger",
+                "length": 77,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #120."
+            },
+            {
+                "index": 121,
+                "title": "Logical Section: Iranian media reported Foreign Ministry ...",
+                "topic": "Document / Agreement / Been",
+                "text": "Iranian media reported Foreign Ministry spokesperson Esmaeil Baghaei as saying large parts of the agreement have been finalized, but Iran would not compromise on its red lines Reuters",
+                "length": 183,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #121."
+            },
+            {
+                "index": 122,
+                "title": "Logical Section: ### U.S. Navy attacked 3 merchant vessel...",
+                "topic": "Document / Stop / Vessels",
+                "text": "### U.S. Navy attacked 3 merchant vessels with Indian seafarers; these strikes must stop: India's firm message to Washington",
+                "length": 124,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #122."
+            },
+            {
+                "index": 123,
+                "title": "Logical Section: ### Iran says hasn’t reached a final dec...",
+                "topic": "Document / Reached / Decision",
+                "text": "### Iran says hasn’t reached a final decision on deal with U.S.",
+                "length": 63,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #123."
+            },
+            {
+                "index": 124,
+                "title": "Logical Section: ### India expected to be among the count...",
+                "topic": "Document / Initiative / Secure",
+                "text": "### India expected to be among the countries invited to join initiative to secure Strait of Hormuz: French sources",
+                "length": 114,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #124."
+            },
+            {
+                "index": 125,
+                "title": "Logical Section: More stories",
+                "topic": "Document / More / Stories",
+                "text": "More stories",
+                "length": 12,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #125."
+            },
+            {
+                "index": 126,
+                "title": "Logical Section: ## Sci-Tech",
+                "topic": "Document / Tech",
+                "text": "## Sci-Tech",
+                "length": 11,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #126."
+            },
+            {
+                "index": 127,
+                "title": "Logical Section: ### Oppo Find X9s Review | Brings togeth...",
+                "topic": "Document / Flagship / Brings",
+                "text": "### Oppo Find X9s Review | Brings together top flagship features and user enjoyment",
+                "length": 83,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #127."
+            },
+            {
+                "index": 128,
+                "title": "Logical Section: Haider Ali Khan",
+                "topic": "Document / Haider / Khan",
+                "text": "Haider Ali Khan",
+                "length": 15,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #128."
+            },
+            {
+                "index": 129,
+                "title": "Logical Section: ### Do people have a tendency to walk in...",
+                "topic": "Document / Walk / Tendency",
+                "text": "### Do people have a tendency to walk in particular directions?",
+                "length": 63,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #129."
+            },
+            {
+                "index": 130,
+                "title": "Logical Section: Vasudevan Mukunth",
+                "topic": "Document / Vasudevan / Mukunth",
+                "text": "Vasudevan Mukunth",
+                "length": 17,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #130."
+            },
+            {
+                "index": 131,
+                "title": "Logical Section: ### Why are vasectomy numbers so low in ...",
+                "topic": "Document / Experts / Vasectomy",
+                "text": "### Why are vasectomy numbers so low in India? Myths continue to deter men, say experts",
+                "length": 87,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #131."
+            },
+            {
+                "index": 132,
+                "title": "Logical Section: Athira Elssa Johnson",
+                "topic": "Document / Elssa / Johnson",
+                "text": "Athira Elssa Johnson",
+                "length": 20,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #132."
+            },
+            {
+                "index": 133,
+                "title": "Logical Section: ### How ants cope with disease outbreaks",
+                "topic": "Document / Ants / Outbreaks",
+                "text": "### How ants cope with disease outbreaks",
+                "length": 40,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #133."
+            },
+            {
+                "index": 134,
+                "title": "Logical Section: D. BalasubramanianRead moreRead more",
+                "topic": "Document / More / Moreread",
+                "text": "D. BalasubramanianRead moreRead more",
+                "length": 36,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #134."
+            },
+            {
+                "index": 135,
+                "title": "Logical Section: ## Movie reviews",
+                "topic": "Document / Reviews / Movie",
+                "text": "## Movie reviews",
+                "length": 16,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #135."
+            },
+            {
+                "index": 136,
+                "title": "Logical Section: Read More",
+                "topic": "Document / Read / More",
+                "text": "Read More",
+                "length": 9,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #136."
+            },
+            {
+                "index": 137,
+                "title": "Logical Section: ### ‘Governor: The Silent Saviour’: Mano...",
+                "topic": "Document / Bajpayee / Governor",
+                "text": "### ‘Governor: The Silent Saviour’: Manoj Bajpayee struggles in a narrative vacuum",
+                "length": 82,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #137."
+            },
+            {
+                "index": 138,
+                "title": "Logical Section: ### ‘Sing Geetham’: A bold musical fanta...",
+                "topic": "Document / Sing / Singeetham",
+                "text": "### ‘Sing Geetham’: A bold musical fantasy from Singeetham Srinivasa Rao",
+                "length": 72,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #138."
+            },
+            {
+                "index": 139,
+                "title": "Logical Section: ### ‘Disclosure Day’: Steven Spielberg’s...",
+                "topic": "Document / Disclosure / Close",
+                "text": "### ‘Disclosure Day’: Steven Spielberg’s latest close encounter with wonder is proof of life",
+                "length": 92,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #139."
+            },
+            {
+                "index": 140,
+                "title": "Logical Section: ### ‘Main Vaapas Aaunga’: Imtiaz Ali’s l...",
+                "topic": "Document / Ages / Love",
+                "text": "### ‘Main Vaapas Aaunga’: Imtiaz Ali’s love story for the ages",
+                "length": 62,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #140."
+            },
+            {
+                "index": 141,
+                "title": "Logical Section: ### ‘Backrooms’: Kane Parsons’ postmoder...",
+                "topic": "Document / Kane / Moodboard",
+                "text": "### ‘Backrooms’: Kane Parsons’ postmodern labyrinth is a mesmerising moodboard for the horrors of the internet age",
+                "length": 114,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #141."
+            },
+            {
+                "index": 142,
+                "title": "Logical Section: ### ‘Office Romance’: Jennifer Lopez and...",
+                "topic": "Document / Brett / Dreary",
+                "text": "### ‘Office Romance’: Jennifer Lopez and Brett Goldstein fail to prop up this confused, dreary rom-com",
+                "length": 102,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #142."
+            },
+            {
+                "index": 143,
+                "title": "Logical Section: Read More",
+                "topic": "Document / Read / More",
+                "text": "Read More",
+                "length": 9,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #143."
+            },
+            {
+                "index": 144,
+                "title": "Logical Section: ## The Hindu Explains",
+                "topic": "Document / Hindu / Explains",
+                "text": "## The Hindu Explains",
+                "length": 21,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #144."
+            },
+            {
+                "index": 145,
+                "title": "Logical Section: ### How does drop shipping on Instagram ...",
+                "topic": "Document / Explained / Drop",
+                "text": "### How does drop shipping on Instagram affect users? | Explained",
+                "length": 65,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #145."
+            },
+            {
+                "index": 146,
+                "title": "Logical Section: Sahana Venugopal",
+                "topic": "Document / Sahana / Venugopal",
+                "text": "Sahana Venugopal",
+                "length": 16,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #146."
+            },
+            {
+                "index": 147,
+                "title": "Logical Section: ### Why is Nicobar debating elections? |...",
+                "topic": "Document / Debating / Elections",
+                "text": "### Why is Nicobar debating elections? | Explained",
+                "length": 50,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #147."
+            },
+            {
+                "index": 148,
+                "title": "Logical Section: Abhinay Lakshman",
+                "topic": "Document / Lakshman / Abhinay",
+                "text": "Abhinay Lakshman",
+                "length": 16,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #148."
+            },
+            {
+                "index": 149,
+                "title": "Logical Section: ### The reality behind falling net FDI",
+                "topic": "Document / Behind / Falling",
+                "text": "### The reality behind falling net FDI",
+                "length": 38,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #149."
+            },
+            {
+                "index": 150,
+                "title": "Logical Section: K.S. Chalapati Rao,Biswajit Dhar ,K.V.K....",
+                "topic": "Document / Biswajit / Dhar",
+                "text": "K.S. Chalapati Rao,Biswajit Dhar ,K.V.K. Ranganathan",
+                "length": 52,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #150."
+            },
+            {
+                "index": 151,
+                "title": "Logical Section: ### Inclusion without abolition in China...",
+                "topic": "Document / Inclusion / China",
+                "text": "### Inclusion without abolition in China’s hukou system",
+                "length": 55,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #151."
+            },
+            {
+                "index": 152,
+                "title": "Logical Section: Anand P. Krishnan",
+                "topic": "Document / Krishnan / Anand",
+                "text": "Anand P. Krishnan",
+                "length": 17,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #152."
+            },
+            {
+                "index": 153,
+                "title": "Logical Section: ## Featured Videos",
+                "topic": "Document / Videos / Featured",
+                "text": "## Featured Videos",
+                "length": 18,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #153."
+            },
+            {
+                "index": 154,
+                "title": "Logical Section: Videos",
+                "topic": "Document / Videos / Shows",
+                "text": "Videos\n Shows\n Webinars",
+                "length": 23,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #154."
+            },
+            {
+                "index": 155,
+                "title": "Logical Section: ## Watch: Three Indian seafarers killed ...",
+                "topic": "Document / Three / Watch",
+                "text": "## Watch: Three Indian seafarers killed off Oman coast| Above the Fold| 11.06.2026",
+                "length": 82,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #155."
+            },
+            {
+                "index": 156,
+                "title": "Logical Section: ### Watch: Three Indian seafarers killed...",
+                "topic": "Document / Three / Watch",
+                "text": "### Watch: Three Indian seafarers killed off Oman coast| Above the Fold| 11.06.2026",
+                "length": 83,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #156."
+            },
+            {
+                "index": 157,
+                "title": "Logical Section: ### Watch | FIFA World Cup 2026: Everyth...",
+                "topic": "Document / Watch / Fifa",
+                "text": "### Watch | FIFA World Cup 2026: Everything you need to know in 3 minutes",
+                "length": 73,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #157."
+            },
+            {
+                "index": 158,
+                "title": "Logical Section: ### Trinamool Congress crumbles | Implic...",
+                "topic": "Document / Crumbles / National",
+                "text": "### Trinamool Congress crumbles | Implications for West Bengal and national politics",
+                "length": 84,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #158."
+            },
+            {
+                "index": 159,
+                "title": "Logical Section: ### Why TVK is eager to woo AIADMK cadre",
+                "topic": "Document / Eager / Aiadmk",
+                "text": "### Why TVK is eager to woo AIADMK cadre",
+                "length": 40,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #159."
+            },
+            {
+                "index": 160,
+                "title": "Logical Section: View all videos",
+                "topic": "Document / Videos / View",
+                "text": "View all videos",
+                "length": 15,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #160."
+            },
+            {
+                "index": 161,
+                "title": "Logical Section: ## Books",
+                "topic": "Document / Books",
+                "text": "## Books",
+                "length": 8,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #161."
+            },
+            {
+                "index": 162,
+                "title": "Logical Section: ### Cooking up a legacy | Review of Rahu...",
+                "topic": "Document / Than / Cooking",
+                "text": "### Cooking up a legacy | Review of Rahul Akerkar’s Biting Off More Than I Can Chew",
+                "length": 83,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #162."
+            },
+            {
+                "index": 163,
+                "title": "Logical Section: Sumana Mukherjee",
+                "topic": "Document / Sumana / Mukherjee",
+                "text": "Sumana Mukherjee",
+                "length": 16,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #163."
+            },
+            {
+                "index": 164,
+                "title": "Logical Section: ### Interview | Manil Suri on his new bo...",
+                "topic": "Document / Interview / Bombay",
+                "text": "### Interview | Manil Suri on his new book A Room in Bombay: A Memoir",
+                "length": 69,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #164."
+            },
+            {
+                "index": 165,
+                "title": "Logical Section: Saurabh Sharma",
+                "topic": "Document / Sharma / Saurabh",
+                "text": "Saurabh Sharma",
+                "length": 14,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #165."
+            },
+            {
+                "index": 166,
+                "title": "Logical Section: ### Authors and publishers weigh in on t...",
+                "topic": "Document / Amid / Prize",
+                "text": "### Authors and publishers weigh in on the use of AI amid the Granta-Commonwealth Prize AI scandal",
+                "length": 98,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #166."
+            },
+            {
+                "index": 167,
+                "title": "Logical Section: Karuna Ezara Parikh",
+                "topic": "Document / Parikh / Ezara",
+                "text": "Karuna Ezara Parikh",
+                "length": 19,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #167."
+            },
+            {
+                "index": 168,
+                "title": "Logical Section: ### Review | ‘Queerly Beloved’ by Farhad...",
+                "topic": "Document / Queerly / Beloved",
+                "text": "### Review | ‘Queerly Beloved’ by Farhad J. Dadyburjor: making of a queerly ever after",
+                "length": 86,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #168."
+            },
+            {
+                "index": 169,
+                "title": "Logical Section: Chintan Girish Modi",
+                "topic": "Document / Chintan / Girish",
+                "text": "Chintan Girish Modi",
+                "length": 19,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #169."
+            },
+            {
+                "index": 170,
+                "title": "Logical Section: ## Featured Sections",
+                "topic": "Document / Featured / Sections",
+                "text": "## Featured Sections",
+                "length": 20,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #170."
+            },
+            {
+                "index": 171,
+                "title": "Logical Section: ### Entertainment",
+                "topic": "Document / Entertainment",
+                "text": "### Entertainment",
+                "length": 17,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #171."
+            },
+            {
+                "index": 172,
+                "title": "Logical Section: Show",
+                "topic": "Document / Movies / Show",
+                "text": "Show\n \n \n Movies",
+                "length": 16,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #172."
+            },
+            {
+                "index": 173,
+                "title": "Logical Section: ### ‘Disclosure Day’ movie review: Steve...",
+                "topic": "Document / Disclosure / Close",
+                "text": "### ‘Disclosure Day’ movie review: Steven Spielberg’s latest close encounter with wonder is proof of life",
+                "length": 105,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #173."
+            },
+            {
+                "index": 174,
+                "title": "Logical Section: Bengaluru",
+                "topic": "Document / Bengaluru",
+                "text": "Bengaluru",
+                "length": 9,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #174."
+            },
+            {
+                "index": 175,
+                "title": "Logical Section: ### Prabhath Kalavidaru’s dance-drama Ci...",
+                "topic": "Document / Dance / Bengaluru",
+                "text": "### Prabhath Kalavidaru’s dance-drama Cinderella to be staged in Bengaluru on June 13",
+                "length": 85,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #175."
+            },
+            {
+                "index": 176,
+                "title": "Logical Section: Movies",
+                "topic": "Document / Movies",
+                "text": "Movies",
+                "length": 6,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #176."
+            },
+            {
+                "index": 177,
+                "title": "Logical Section: ### ‘Governor: The Silent Saviour’ movie...",
+                "topic": "Document / Bajpayee / Governor",
+                "text": "### ‘Governor: The Silent Saviour’ movie review: Manoj Bajpayee struggles in a narrative vacuum",
+                "length": 95,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #177."
+            },
+            {
+                "index": 178,
+                "title": "Logical Section: ### Sport",
+                "topic": "Document / Sport",
+                "text": "### Sport",
+                "length": 9,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #178."
+            },
+            {
+                "index": 179,
+                "title": "Logical Section: Show",
+                "topic": "Document / Cricket / Show",
+                "text": "Show\n \n \n Cricket",
+                "length": 17,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #179."
+            },
+            {
+                "index": 180,
+                "title": "Logical Section: ### Onus on Sooryavanshi as India-A hope...",
+                "topic": "Document / Onus / Hopes",
+                "text": "### Onus on Sooryavanshi as India-A hopes to get going",
+                "length": 54,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #180."
+            },
+            {
+                "index": 181,
+                "title": "Logical Section: Football",
+                "topic": "Document / Football",
+                "text": "Football",
+                "length": 8,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #181."
+            },
+            {
+                "index": 182,
+                "title": "Logical Section: ### Daily Quiz: On FIFA World Cup",
+                "topic": "Document / World / Quiz",
+                "text": "### Daily Quiz: On FIFA World Cup",
+                "length": 33,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #182."
+            },
+            {
+                "index": 183,
+                "title": "Logical Section: Races",
+                "topic": "Document / Races",
+                "text": "Races",
+                "length": 5,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #183."
+            },
+            {
+                "index": 184,
+                "title": "Logical Section: ### Zobel, Valiant Stream, Alfonsine, Sh...",
+                "topic": "Document / Excel / Emperor",
+                "text": "### Zobel, Valiant Stream, Alfonsine, Shutterfly and Knotty Emperor excel",
+                "length": 73,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #184."
+            },
+            {
+                "index": 185,
+                "title": "Logical Section: ### Health",
+                "topic": "Document / Health",
+                "text": "### Health",
+                "length": 10,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #185."
+            },
+            {
+                "index": 186,
+                "title": "Logical Section: Show",
+                "topic": "Document / India / Show",
+                "text": "Show\n \n \n India",
+                "length": 15,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #186."
+            },
+            {
+                "index": 187,
+                "title": "Logical Section: ### India sends measles vaccines, medica...",
+                "topic": "Document / Amid / Maldives",
+                "text": "### India sends measles vaccines, medical supplies to Maldives amid rising cases",
+                "length": 80,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #187."
+            },
+            {
+                "index": 188,
+                "title": "Logical Section: Health",
+                "topic": "Document / Health",
+                "text": "Health",
+                "length": 6,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #188."
+            },
+            {
+                "index": 189,
+                "title": "Logical Section: ### Missing teeth can interfere with che...",
+                "topic": "Document / Teeth / Help",
+                "text": "### Missing teeth can interfere with chewing, speech and cause facial changes: here’s how implants can help",
+                "length": 107,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #189."
+            },
+            {
+                "index": 190,
+                "title": "Logical Section: Kerala",
+                "topic": "Document / Kerala",
+                "text": "Kerala",
+                "length": 6,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #190."
+            },
+            {
+                "index": 191,
+                "title": "Logical Section: ### Shigellosis cases rise to 16 in Kera...",
+                "topic": "Document / Health / Kerala",
+                "text": "### Shigellosis cases rise to 16 in Kerala’s Wayanad; Health department steps up surveillance",
+                "length": 93,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #191."
+            },
+            {
+                "index": 192,
+                "title": "Logical Section: ### Science",
+                "topic": "Document / Science",
+                "text": "### Science",
+                "length": 11,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #192."
+            },
+            {
+                "index": 193,
+                "title": "Logical Section: Show",
+                "topic": "Document / Show / Bengaluru",
+                "text": "Show\n \n \n Bengaluru",
+                "length": 19,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #193."
+            },
+            {
+                "index": 194,
+                "title": "Logical Section: ### Bengaluru space startups among three...",
+                "topic": "Document / Three / Space",
+                "text": "### Bengaluru space startups among three selected for funding under Technology Adoption Fund",
+                "length": 92,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #194."
+            },
+            {
+                "index": 195,
+                "title": "Logical Section: Science",
+                "topic": "Document / Science",
+                "text": "Science",
+                "length": 7,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #195."
+            },
+            {
+                "index": 196,
+                "title": "Logical Section: ### How ants cope with disease outbreaks",
+                "topic": "Document / Ants / Outbreaks",
+                "text": "### How ants cope with disease outbreaks",
+                "length": 40,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #196."
+            },
+            {
+                "index": 197,
+                "title": "Logical Section: Science",
+                "topic": "Document / Science",
+                "text": "Science",
+                "length": 7,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #197."
+            },
+            {
+                "index": 198,
+                "title": "Logical Section: ### Do people have a tendency to walk in...",
+                "topic": "Document / Walk / Tendency",
+                "text": "### Do people have a tendency to walk in particular directions?",
+                "length": 63,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #198."
+            },
+            {
+                "index": 199,
+                "title": "Logical Section: ### Books",
+                "topic": "Document / Books",
+                "text": "### Books",
+                "length": 9,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #199."
+            },
+            {
+                "index": 200,
+                "title": "Logical Section: Show",
+                "topic": "Document / Books / Show",
+                "text": "Show\n \n \n Books",
+                "length": 15,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #200."
+            },
+            {
+                "index": 201,
+                "title": "Logical Section: ### Virginia Evans and Lyse Doucet win W...",
+                "topic": "Document / Evans / Virginia",
+                "text": "### Virginia Evans and Lyse Doucet win Women’s Prize 2026",
+                "length": 57,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #201."
+            },
+            {
+                "index": 202,
+                "title": "Logical Section: Books",
+                "topic": "Document / Books",
+                "text": "Books",
+                "length": 5,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #202."
+            },
+            {
+                "index": 203,
+                "title": "Logical Section: ### What Granta’s Commonwealth Prize AI ...",
+                "topic": "Document / Writing / What",
+                "text": "### What Granta’s Commonwealth Prize AI scandal tells us about the future of literary writing",
+                "length": 93,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #203."
+            },
+            {
+                "index": 204,
+                "title": "Logical Section: Books",
+                "topic": "Document / Books",
+                "text": "Books",
+                "length": 5,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #204."
+            },
+            {
+                "index": 205,
+                "title": "Logical Section: ### Authors and publishers weigh in on t...",
+                "topic": "Document / Amid / Prize",
+                "text": "### Authors and publishers weigh in on the use of AI amid the Granta-Commonwealth Prize AI scandal",
+                "length": 98,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #205."
+            },
+            {
+                "index": 206,
+                "title": "Logical Section: ### Education",
+                "topic": "Document / Education",
+                "text": "### Education",
+                "length": 13,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #206."
+            },
+            {
+                "index": 207,
+                "title": "Logical Section: Show",
+                "topic": "Document / Delhi / Show",
+                "text": "Show\n \n \n Delhi",
+                "length": 15,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #207."
+            },
+            {
+                "index": 208,
+                "title": "Logical Section: ### Delhi HC refuses to direct reopening...",
+                "topic": "Document / Sheets / Delhi",
+                "text": "### Delhi HC refuses to direct reopening of CBSE re-evaluation portal for Class 12 answer sheets",
+                "length": 96,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #208."
+            },
+            {
+                "index": 209,
+                "title": "Logical Section: Education",
+                "topic": "Document / Education",
+                "text": "Education",
+                "length": 9,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #209."
+            },
+            {
+                "index": 210,
+                "title": "Logical Section: ### From 27th to 1st: How Punjab became ...",
+                "topic": "Document / Performing / 27Th",
+                "text": "### From 27th to 1st: How Punjab became best-performing school education state",
+                "length": 78,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #210."
+            },
+            {
+                "index": 211,
+                "title": "Logical Section: India",
+                "topic": "Document / India",
+                "text": "India",
+                "length": 5,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #211."
+            },
+            {
+                "index": 212,
+                "title": "Logical Section: ### NTA announces more rough-work space,...",
+                "topic": "Document / Space / Extended",
+                "text": "### NTA announces more rough-work space, extended exam window for NEET-UG 2026",
+                "length": 78,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #212."
+            },
+            {
+                "index": 213,
+                "title": "Logical Section: ### Food",
+                "topic": "Document / Food",
+                "text": "### Food",
+                "length": 8,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #213."
+            },
+            {
+                "index": 214,
+                "title": "Logical Section: Show",
+                "topic": "Document / Dining / Show",
+                "text": "Show\n \n \n Dining",
+                "length": 16,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #214."
+            },
+            {
+                "index": 215,
+                "title": "Logical Section: ### Chef Azaan Qureshi brings the classi...",
+                "topic": "Document / Chef / Qureshi",
+                "text": "### Chef Azaan Qureshi brings the classic flavours of Awadh to Goa’s Assagao",
+                "length": 76,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #215."
+            },
+            {
+                "index": 216,
+                "title": "Logical Section: Features",
+                "topic": "Document / Features",
+                "text": "Features",
+                "length": 8,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #216."
+            },
+            {
+                "index": 217,
+                "title": "Logical Section: ### Everything in this Kerala cafe is co...",
+                "topic": "Document / Kerala / Based",
+                "text": "### Everything in this Kerala cafe is coconut-based",
+                "length": 51,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #217."
+            },
+            {
+                "index": 218,
+                "title": "Logical Section: Hyderabad",
+                "topic": "Document / Hyderabad",
+                "text": "Hyderabad",
+                "length": 9,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #218."
+            },
+            {
+                "index": 219,
+                "title": "Logical Section: ### Food safety raids at Hyderabad baker...",
+                "topic": "Document / Food / Hygiene",
+                "text": "### Food safety raids at Hyderabad bakery, brewery uncover expired food, pest infestation, hygiene violations",
+                "length": 109,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #219."
+            },
+            {
+                "index": 220,
+                "title": "Logical Section: Sign in to unlock member-only benefits!",
+                "topic": "Document / Sign / Benefits",
+                "text": "Sign in to unlock member-only benefits!",
+                "length": 39,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #220."
+            },
+            {
+                "index": 221,
+                "title": "Logical Section: - Access 10 free stories every month",
+                "topic": "Document / Access / Stories",
+                "text": "- Access 10 free stories every month\n- Save stories to read later\n- Access to comment on every story\n- Sign-up/manage your newsletter subscriptions with a single click\n- Get notified by email for early access to discounts & offers on our products✕Looks like you are already logged in from more than 5 devices!To continue logging in, remove at least one device from the below list",
+                "length": 379,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #221."
+            },
+            {
+                "index": 222,
+                "title": "Logical Section: - Log outLog Out from all devices",
+                "topic": "Document / Devices / Outlog",
+                "text": "- Log outLog Out from all devices",
+                "length": 33,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #222."
+            },
+            {
+                "index": 223,
+                "title": "Logical Section: Terms & conditions  |  Institutional Sub...",
+                "topic": "Document / Subscriber / Terms",
+                "text": "Terms & conditions  |  Institutional Subscriber",
+                "length": 47,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #223."
+            },
+            {
+                "index": 224,
+                "title": "Logical Section: ${ ind + 1 }",
+                "topic": "Document / Device / Last",
+                "text": "${ ind + 1 }\n ${ device }Last active - ${ la }",
+                "length": 46,
+                "reason": "[Simulated LLM] Simulated LLM Boundary: Partitioned based on paragraph thematic shift #224."
+            }
+        ],
+        "metrics": {
+            "total_chunks": 224,
+            "avg_size": 76.2,
+            "processing_time_ms": 19.133
+        },
+        "simulated": true
+    }
+}

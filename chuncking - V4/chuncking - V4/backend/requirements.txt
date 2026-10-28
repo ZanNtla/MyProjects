@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langchain-text-splitters
+langgraph
+sentence-transformers
+pypdf
+python-docx
+tiktoken
+numpy
+scikit-learn
+python-multipart
+reportlab
+
